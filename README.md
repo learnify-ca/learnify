@@ -1,2 +1,2 @@
 # learnify-public
-Public repository for sharing Learnify's dev resources.
+Repository for sharing Learnify's dev resources with the public.
