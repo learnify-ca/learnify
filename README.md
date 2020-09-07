@@ -2,12 +2,12 @@
 Repository for sharing Learnify's dev resources with the public.
 
 ## Issues and Feature Requests
-We love to hear from our customers! Let us know of any feature requests you have for us. Start by creating an issue at ... After creating an issue, you can follow its can track its status at ...
+We love to hear from our customers! Let us know of any feature requests you have for us. Start by creating an issue at [issues](https://github.com/learnify-ca/learnify/projects/1) After creating an issue, you can follow its can track its status at [project](https://github.com/learnify-ca/learnify/projects/1)
 
 Feature requests have the following statuses:
 
 ### Deferred
-`Deferred` means the request has either been rejected or postponed, and a reason for deferral will be provided why the admin. `Deferred` requests will never be deleted, and we will contact you if your deferred request has been revived.
+`Deferred` means the request has either been rejected or postponed, and a reason for deferral will be provided by the admin. `Deferred` requests will never be deleted, and we will contact you if your deferred request has been revived.
 
 ### Pending
 `Pending` requests have not yet been reviewed by the product team.
