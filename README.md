@@ -2,7 +2,7 @@
 Repository for sharing Learnify's dev resources with the public.
 
 ## Issues and Feature Requests
-We love to hear from our customers! Let us know of any feature requests you have for us. Start by creating an issue at [issues](https://github.com/learnify-ca/learnify/projects/1) After creating an issue, you can follow its can track its status at [project](https://github.com/learnify-ca/learnify/projects/1)
+We love to hear from our customers! Let us know of any feature requests you have for us. Start by creating an [issue](https://github.com/learnify-ca/learnify/projects/1). After creating an issue, you can follow its can track its status at in our [Public Feature Request](https://github.com/learnify-ca/learnify/projects/1) project.
 
 Feature requests have the following statuses:
 
