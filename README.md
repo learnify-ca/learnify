@@ -1,8 +1,8 @@
 # Learnify
-Repository for sharing Learnify's dev resources with the public.
+Learnify's Public Repository
 
 ## Issues and Feature Requests
-We love to hear from our customers! Let us know of any feature requests you have for us. Start by creating an [issue](https://github.com/learnify-ca/learnify/projects/1). After creating an issue, you can follow its can track its status at in our [Public Feature Request](https://github.com/learnify-ca/learnify/projects/1) project.
+We love to hear from our customers! Let us know about any feature requests you have for us. Start by creating an [issue](https://github.com/learnify-ca/learnify/projects/1). After creating an issue, you can track its status in our [Public Feature Request](https://github.com/learnify-ca/learnify/projects/1) project.
 
 Feature requests have the following statuses:
 
@@ -16,7 +16,7 @@ Feature requests have the following statuses:
 `Accepted` requests have been approved by the product team and will be added to the team's workflow. If a contact email has been left, we will notify you of the request's approval.
 
 ### Actively Building
-`Actively Building` means the feature request has been integrated into the product team's workflow, and is currently being developed and tested
+`Actively Building` means the feature request has been integrated into the product team's workflow, and is currently being developed and tested.
 
 ### Deployed
-`Deployed` requested have been developed, tested, and released into the latest version of Learnify. You will be accredited for suggesting a successful feature.
+`Deployed` requests have been developed, tested, and released with the latest version of Learnify. You will be accredited for suggesting a successful feature.
