@@ -7,7 +7,7 @@ We love to hear from our customers! Let us know about any feature requests you h
 Feature requests have the following statuses:
 
 ### Deferred
-`Deferred` means the request has either been rejected or postponed, and a reason for deferral will be provided by the team. `Deferred` requests will never be deleted, and we will contact you if your deferred request has been revived.
+`Deferred` means the request has either been rejected or postponed, and a reason for deferral will be provided by the product team. `Deferred` requests will never be deleted, and we will contact you if your deferred request has been revived.
 
 ### Pending
 `Pending` requests have not yet been reviewed by the product team.
